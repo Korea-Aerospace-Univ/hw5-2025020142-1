@@ -2,7 +2,7 @@
 
 int main(void) {
 int budget;
-int found = 0;
+bool found = 0;
 
 scanf("%d", &budget);
 
